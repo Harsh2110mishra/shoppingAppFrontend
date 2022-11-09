@@ -31,7 +31,7 @@
   <p align="center">
     A full stack e-commerce web app which is made by using MERN technology.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>View Website »</strong></a>
+    <a href="https://shoppingappfrontend.herokuapp.com/"><strong>View Website »</strong></a>
     <br />
     <br />
   </p>
@@ -66,7 +66,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://shoppingappfrontend.herokuapp.com/)
 
 A full stack e-commerce web app that you can login with your google account or create a new account and sign in with it. Select products with filtering, add them to the basket, delete them and after making the payment with a test credit card you can check your orders.
 
@@ -146,7 +146,7 @@ yarn build
 
 ## Screenshots
 
-[![Product Name Screen Shot][product-screenshots]](https://example.com)
+[![Product Name Screen Shot][product-screenshots]](https://shoppingappfrontend.herokuapp.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
