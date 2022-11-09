@@ -63,7 +63,7 @@ function Contact() {
                   type="text"
                   className="form-control"
                   id="exampleForm"
-                  placeholder="John Smith"
+                  placeholder="Harsh Mishra"
                   onChange={(e) => {
                     setName(e.target.value);
                     console.log("value", e.target.value);
@@ -79,7 +79,7 @@ function Contact() {
                   type="email"
                   className="form-control"
                   id="exampleFormControlInput1"
-                  placeholder="name@example.com"
+                  placeholder="harsh2110.mishra@gmail.com"
                   onChange={(e) => {
                     setEmail(e.target.value);
                   }}
