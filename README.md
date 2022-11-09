@@ -108,13 +108,13 @@ Run command given below to update `npm`.
 
 ```bash
 # install dependencies
-yarn install
+npm install
 
 # runs the app in the development mode.
-yarn start
+npm start
 
 # builds the app for production to the build folder.
-yarn build
+npm run build
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
