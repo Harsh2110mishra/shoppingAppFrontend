@@ -139,8 +139,8 @@ yarn build
 
 ## Deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) - Backend
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8e9c3a2f-2127-47d1-aa00-f3f1609e1897/deploy-status)](https://app.netlify.com/sites/stupefied-goldstine-0d23f1/deploys)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) - Backend
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/8e9c3a2f-2127-47d1-aa00-f3f1609e1897/deploy-status)](https://app.netlify.com/sites/stupefied-goldstine-0d23f1/deploys) - Frontend
 
 <!-- Screenshots -->
 
