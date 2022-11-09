@@ -152,6 +152,11 @@ npm run build
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Step By Step Screenshots
+<Gif> 
+- <img src="https://github.com/Harsh2110mishra/shoppingAppFrontend/blob/main/public/assets/Screen-Recording-2022-11-09-at-9.gif" width="1280" height="540" />
+</Gif>
+
 <!-- CONTRIBUTING -->
 
 ## Support
