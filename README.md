@@ -102,6 +102,11 @@ Run command given below to update `npm`.
   ```sh
   npm install npm@latest -g
   ```
+- clone
+  ```sh
+  git clone https://github.com/Harsh2110mishra/shoppingAppFrontend.git
+  ```
+ 
   <!-- Build Setup -->
 
 ## Build Setup
