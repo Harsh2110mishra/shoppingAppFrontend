@@ -76,8 +76,6 @@ A full stack e-commerce web app that you can login with your google account or c
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 - [![React][react.js]][react-url]
 - [![Node][nodejs.com]][nodejs-url]
 - [![Express][express.com]][express-url]
