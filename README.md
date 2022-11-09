@@ -90,14 +90,13 @@ A full stack e-commerce web app that you can login with your google account or c
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Before clonning this repo you should update `npm` to latest version.
 
 <!-- Prerequisites -->
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Run command given below to update `npm`.
 
 - npm
   ```sh
